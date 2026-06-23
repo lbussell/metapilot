@@ -1,0 +1,12 @@
+{
+  "name": "metapilot",
+  "description": "Inter-session messaging for Copilot CLI: discover, read, and message other agent sessions via a filesystem mailbox with heartbeat presence.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lbussell"
+  },
+  "repository": "https://github.com/lbussell/metapilot",
+  "license": "MIT",
+  "keywords": ["copilot", "cli", "extension", "multi-agent", "messaging", "sessions"],
+  "extensions": "extensions/"
+}
