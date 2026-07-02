@@ -52,3 +52,11 @@ if (Test-Path -LiteralPath $copilotProfilesScript) {
     . $copilotProfilesScript
 }
 ```
+
+## Installation (other environments)
+
+Run the following command:
+
+```console
+copilot --yolo -i "Implement https://raw.githubusercontent.com/lbussell/metapilot/refs/heads/main/src/copilot-profiles/README.ps1 using $FAVORITE_PROGRAMMING_LANGUAGE and add it to my path/shell profile"
+```
